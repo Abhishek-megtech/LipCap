@@ -14,8 +14,9 @@ num_workers = 16
 max_epoch = 10000
 display = 50
 test_step = 1000
-save_prefix = f"weights/LipCoordNet_{data_type}"
+save_prefix = f"weights/LipCap_{data_type}"
 is_optimize = True
 pin_memory = True
 
-weights = "pretrain/LipCoordNet_coords_loss_0.025581153109669685_wer_0.01746208431890914_cer_0.006488426950253695.pt"
+weights = "pretrain/LipCap_coords_loss_0.025581153109669685_wer_0.01746208431890914_cer_0.006488426950253695.pt"
+
