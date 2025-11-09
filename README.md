@@ -1,4 +1,4 @@
-#🧠 LipCap – Deep Learning-Based Lip Reading Caption Generator
+🧠 LipCap – Deep Learning-Based Lip Reading Caption Generator
 
 LipCap is an advanced AI-powered lip reading system designed to interpret silent video footage and automatically generate accurate text captions based on the speaker’s lip movements.
 It combines the power of computer vision, deep learning, and natural language processing (NLP) to bridge the gap between visual cues and spoken language.
@@ -22,6 +22,7 @@ The model can also be retrained or fine-tuned for new datasets, accents, or lang
 In short, LipCap brings artificial intelligence closer to understanding human communication through vision alone — a step toward the future of silent speech recognition.
 
 
+
 🚀 Features
 
 🎥 Video-to-Text Conversion: Automatically converts lip movements into text captions.
@@ -37,6 +38,7 @@ In short, LipCap brings artificial intelligence closer to understanding human co
 🧠 Custom Training: Can be extended to new datasets or languages.
 
 
+
 🏗️ Tech Stack
 
 - Programming Language: Python
@@ -48,6 +50,7 @@ In short, LipCap brings artificial intelligence closer to understanding human co
 - Frontend: HTML, CSS, JavaScript
 
 - Utilities: NumPy, OpenCV, h5py, ffmpeg
+
 
 
 ▶️ Usage
